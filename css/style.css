@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(248, 248, 248);
+}
+nav {
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px;
+}
+nav a:hover {
+  background-color: rgb(58, 118, 248);
+  color: white;
+}
+.borrar-curso {
+  background-color: red;
+  border-radius: 50%;
+  padding: 5px 10px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
